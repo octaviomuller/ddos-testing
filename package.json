@@ -1,0 +1,24 @@
+{
+  "name": "ddos-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octaviomuller/ddos-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octaviomuller/ddos-testing/issues"
+  },
+  "homepage": "https://github.com/octaviomuller/ddos-testing#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.3.0",
+    "nodemon": "^2.0.12"
+  }
+}
